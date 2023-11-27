@@ -1,6 +1,6 @@
 # Conditionals in Python
 
-## Conditionals Basics
-## A Little More On Conditionals
-## Writing More Complex Logic
-## The Last Section On Conditionals
+## Conditionals Basics [x]
+## A Little More On Conditionals [x]
+## Writing More Complex Logic [x]
+## The Last Section On Conditionals [x]
