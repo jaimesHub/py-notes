@@ -59,7 +59,7 @@
 
 ## Section 17: Scope
 
-## Section 18: List: The Basics
+## Section 18: Lists: The Basics
 
 ## Section 19: Lists: More List Stuff
 
