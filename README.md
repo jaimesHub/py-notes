@@ -50,3 +50,7 @@
 ## Section 12: Writing More Complex Logic
 
 ## Section 13: The Last Section On Conditionals
+
+## Section 14: Loops Part I
+
+## Section 15: Loops Part II
