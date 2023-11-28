@@ -54,3 +54,17 @@
 ## Section 14: Loops Part I
 
 ## Section 15: Loops Part II
+
+## Section 16: Introducing Functions
+
+## Section 17: Scope
+
+## Section 18: List: The Basics
+
+## Section 19: Lists: More List Stuff
+
+## Section 20: Dictionaries
+
+## Section 21: Sets and Tuples
+
+## Section 22: Returning To Functions
