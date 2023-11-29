@@ -1,9 +1,11 @@
 # Returning To Functions
 
 ## Introducing *args
+- `tuple`
 - We can use the `wildcard` or `*` notation to write functions that accept `any number of arguments`
-
+- min, max
 ## Using *args
+- `args.py`
 - Example
 ```
 def average(*args):
@@ -12,7 +14,7 @@ def average(*args):
         total += arg
     return total/len(args)
 ```
-- `*args` -> gathers all remaining arguments into a tuple
+- `*args` -> gathers all remaining arguments into a `tuple`
     - Pass as many arguments as we want! 5 args in this case:
     > average`(1,2,3,4,5)`
     3.0
@@ -29,6 +31,8 @@ def average(*nums):
 ```
 
 ## Introducing **kwargs
+- `kwargs.py`
+- `dictionary`
 - We can use the `**` notation to write functions that accept `any number of keyword arguments`
 - Example
 ```
@@ -45,15 +49,22 @@ def print_ages(**ages):
         print(f"{k} is {v} years old")
 print_ages(max=67, sue=59, kim=14)
 ```
+- `Note`: any function parameter prefixed with `**` like `**kwargs` or `**stuff` will be a `dictionary`
 
 ## Parameter List Ordering
 - When defining functions, the order of parameters matters!
 - Order maters (`parameters`, `*args`, `default parameters`, `**kwargs`)
+- `order.py`
 
 ## A Common Gotcha: Mutable Default Args
 - With mutable default arguments
+- `gotcha.py`
 
 ## Unpacking Args
 - Turning sequences into separate args
+- We can't pass a list of values as an argument
+- Instead, we can "unpack" the list into individual args
+- `args.py`
 
 ## Assignment
+- `args_problem_set.py`
