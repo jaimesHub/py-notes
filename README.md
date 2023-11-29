@@ -72,3 +72,5 @@
 ## Section 23: Working With Errors
 
 ## Section 24: Modules
+
+## Section 25: OOP
