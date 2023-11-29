@@ -68,3 +68,5 @@
 ## Section 21: Sets and Tuples
 
 ## Section 22: Returning To Functions
+
+## Section 23: Working With Errors
