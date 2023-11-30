@@ -74,3 +74,5 @@
 ## Section 24: Modules
 
 ## Section 25: OOP
+
+## Recap
