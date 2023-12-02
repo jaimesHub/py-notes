@@ -76,3 +76,11 @@
 ## Section 25: OOP
 
 ## Recap
+
+## Advance features
+### decorators
+### iterators & generators
+### lambdas
+
+## REFERENCE
+- [roadmap.sh/python](https://roadmap.sh/python)
