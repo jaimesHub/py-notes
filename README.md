@@ -1,4 +1,4 @@
-# One Week Python
+# I. One Week Python
 
 ## Section 1: Welcome & Introduction
 - This course is 
@@ -76,11 +76,16 @@
 ## Section 25: OOP
 
 ## Recap
+#
+#
+# II. Advance features
+## decorators
+## iterators & generators
+## lambdas
 
-## Advance features
-### decorators
-### iterators & generators
-### lambdas
+# III. OOP and SOLID Principles
+## OOP
+## SOLID
 
-## REFERENCE
+# IV. REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
