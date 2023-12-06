@@ -78,14 +78,15 @@
 ## Recap
 #
 #
+
 # II. Advance features
 ## decorators
 ## iterators & generators
 ## lambdas
 
-# III. OOP and SOLID Principles
-## OOP
-## SOLID
+# III. OOP
+
+# IV. SOLID Principles
 
 # IV. REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
