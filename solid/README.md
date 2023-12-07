@@ -155,3 +155,5 @@
     - Part: Software Design Principles
     - Part: Design Principles
     - Part: SOLID Principles
+
+- [SOLID principles](https://www.linkedin.com/pulsepython-recommended-coding-practices-part-3-solid-watanabe/)
