@@ -76,17 +76,27 @@
 ## Section 25: OOP
 
 ## Recap
-#
+
 #
 
 # II. Advance features
 ## decorators
-## iterators & generators
+## iterators
+## generators
 ## lambdas
+## packing/unpacking
+## context managers
+## collections module
+## itertools module
+## functools module
 
 # III. OOP
 
 # IV. SOLID Principles
 
+# V. FastAPI
+
 # IV. REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
+- [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)
+- [Video](https://www.youtube.com/watch?v=0sOvCWFmrtA)
