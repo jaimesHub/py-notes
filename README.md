@@ -14,20 +14,25 @@
 
 ## Section 2: Installation & Setup
 - Installation
-    - Download: https://www.python.org/downloads/
+    - [Download Python 3](https://www.python.org/downloads/)
+    - [Mac Python Installation](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=682s)
+    - [Mac VS Code install and setup](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=795s)
+    - [Python virtual Env Basics - Why do we need it?](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=1331s)
+    - [Virtual Env on Mac - How we do that](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=1736s)
+    - [Install dependencies w/ pip](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=2057s)
 - Running Python: 2 ways we can run Python code
     - Interactively: terminal
-        - python3 --version: checking version
-        - python3: open interactive mode, exit()/Ctrl + D
-        - IPython: python3 -m pip install ipython
+        - checking version: `python3 --version`
+        - python3: `open interactive mode, exit()/Ctrl + D`
+        - IPython: `python3 -m pip install ipython`
     - From A File:
         - Writing python code in a file (`game.py`)
         - Execute it: `python game.py`
 - Setup VSCode
-    - Extensions: Python
-    - ./Section-2/first.py
+    - Extensions: `Python`
+    - `./Section-2/first.py`
 - The "No-Installation" Option:
-    - REPL.it: https://replit.com/
+    - [REPL.it](https://replit.com/)
 
 ## Section 3: Python Numbers
 
@@ -76,7 +81,10 @@
 ## Section 25: OOP
 
 ## Recap
-
+- the power of `three`
+- why
+- props
+- cons
 #
 
 # II. Advance features
@@ -99,4 +107,6 @@
 # IV. REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
 - [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)
-- [Video](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+- [FastAPI Video Tuts](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+- [Solid-Github-DHN](https://github.com/daohainam/solid-bad-designs)
+- [Knowledge-base Practice](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas)

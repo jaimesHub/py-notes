@@ -227,6 +227,9 @@ Out[5]: <str_ascii_iterator at 0x10c155e10>
         - Only compute values as needed
         - Can help improve performance of your code
 
+- Generators from `CS50`
+    - `sleep.py`
+
 ## Recap
 - Generators are iterators
 - Generators can be created with generator function using the yield keyword

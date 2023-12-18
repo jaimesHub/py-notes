@@ -2,3 +2,21 @@
 - What is namespace in Python ?
     - Namespace vs Scope
 - Tell me more about `LSP` and `ISP` in SOLID
+- Iterator, Generator, yield
+    - What
+    - Why
+    - Pros vs cons
+    - The power of three
+- None value
+- Context Manager:
+    - Using in I/O
+    - Managing Transaction: psycopg 2.5+ (using `with`), fastapi (database connection)
+        - [Connections can be used as context managers.](https://www.psycopg.org/docs/connection.html#connection)
+- yield with interating unknown size of elements (psycopg, fetchmany(size))
+- Decorators
+    - https://builtin.com/software-engineering-perspectives/python-class-decorator
+    - https://freecodecamp.org/news/python-decorators-explained/
+    - Decorators with arguments
+- Implementing Server Python App
+    - Locally
+    - Docker

@@ -105,3 +105,5 @@
 - [Python Documentation](https://docs.python.org/3/library/functools.html#functools.wraps)
 - [Datacamp Decorators](https://www.datacamp.com/tutorial/decorators-python)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/decorators-in-python/)
+- [FCC Decorators](https://freecodecamp.org/news/python-decorators-explained/)
+    - [Example code](./code/python_decorators_explained.py)

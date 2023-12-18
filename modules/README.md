@@ -8,7 +8,7 @@
     - Custom
     - 3rd Party
 - Standard Library
-    - https://docs.python.org/3/library/
+    - [Standard Library](https://docs.python.org/3/library/)
     - Python comes with tons of built-in modules that we can use, `if we import them.`
     - Each module consists of methods and functionality bundled together
     - To use a module, we must import it first using the `import` keyword
@@ -36,7 +36,7 @@
 ## 3rd Party Modules: Pip & PyPI
 - pip is `the Python package installer` that we can use to install hundreds of thoudsands of packages for use in our projects. (~ same as npm/yarn/pnpm)
 - syntax: `python3 -m pip install <package>`
-- https://docs.python.org/3/installing/index.html
+- [Installing PIP](https://docs.python.org/3/installing/index.html)
 
 ## Our First Pip Package
 - python -m pip install art
