@@ -157,3 +157,23 @@
     - Part: SOLID Principles
 
 - [SOLID principles](https://www.linkedin.com/pulsepython-recommended-coding-practices-part-3-solid-watanabe/)
+
+- [OCP]
+    - https://github.com/academind/clean-code-course-code/blob/obj-06-solid/ocp.ts
+    - inteface in python
+    - https://www.scaler.com/topics/interface-in-python/#creating-and-implementing-interface-in-python
+    - https://www.javatpoint.com/interface-in-python
+    - https://dotnettutorials.net/lesson/interfaces-in-python/#google_vignette
+    - https://pythonguides.com/python-interface/
+    - https://www.pythontutorial.net/python-oop/python-open-closed-principle/
+    - https://freetuts.net/interface-trong-python-3488.html
+
+- [LSP]
+    - https://www.pythontutorial.net/python-oop/python-liskov-substitution-principle/
+
+- [ISP]
+    - https://www.pythontutorial.net/python-oop/python-interface-segregation-principle/
+    - https://www.pythontutorial.net/python-oop/python-abstract-class/
+
+- [DIP]
+    - https://www.pythontutorial.net/python-oop/python-dependency-inversion-principle/
