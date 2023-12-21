@@ -7,3 +7,4 @@
 - [Clean Architecture in Java](https://github.com/ronin-engineer/software-development-practices/tree/master)
 - [Clean Architecture in C#](https://github.com/kikutano/CleanArchitecture.Template/tree/main)
 - [Why Clean Architecture Is Great For Complex Projects](https://www.milanjovanovic.tech/blog/why-clean-architecture-is-great-for-complex-projects)
+- [Clean Architecture Vietnamese](https://www.linkedin.com/pulse/clean-architecture-nguyen-nguyen/)
