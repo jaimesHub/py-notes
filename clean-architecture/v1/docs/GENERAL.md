@@ -1,6 +1,8 @@
 # General
 - [1. In-memory-cli implementation](./IN-MEMORY-CLI.md)
+    - [branch::v1/clean-architecture](https://github.com/jaimesHub/py-notes/tree/v1/clean-architecture/clean-architecture)
 - [2. Handling errors implementation](./HANDLING-ERROR.md)
+    - [branch::cli_memory_error_handling](https://github.com/jaimesHub/py-notes/tree/cli_memory_with_error_handling/clean-architecture/v1)
 
 # References
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

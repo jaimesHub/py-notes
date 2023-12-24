@@ -1,5 +1,8 @@
 # v2/clean-architecture
 
+## Github links
+- [branch::v2/clean-architecture](https://github.com/jaimesHub/py-notes/tree/v2/clean-architecture/clean-architecture/v2)
+
 1. `Entities` layer: v2/src/domain
 - [value_objects.py](./src/domain/value_objects.py)
 - [post.py](./src/domain/entity/post.py)
