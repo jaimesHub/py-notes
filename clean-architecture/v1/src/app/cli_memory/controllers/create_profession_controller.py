@@ -9,9 +9,14 @@ from src.app.cli_memory.interfaces.cli_memory_controller_interface \
 from ..presenters.create_profession_presenter import CreateProfessionPresenter
 from ..views.create_profession_view import CreateProfessionView
 
+from src.interactor.interfaces.logger.logger import LoggerInterface
+
 class CreateProfessionController(CliMemoryControllerInterface):
     """ Create Profession Controller Class
     """
+    def __init__(self, logger: LoggerInterface) -> None:
+        self.logger = logger
+
     def _get_profession_info(self) -> CreateProfessionInputDto:
         name = input("Enter the profession name:")
         description = input("Enter the profession description:")
@@ -25,7 +30,7 @@ class CreateProfessionController(CliMemoryControllerInterface):
 
         input_dto = self._get_profession_info()
 
-        use_case = CreateProfessionUseCase(presenter, repository)
+        use_case = CreateProfessionUseCase(presenter, repository, self.logger)
 
         result = use_case.execute(input_dto)
 
