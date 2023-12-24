@@ -1,4 +1,6 @@
 # General
+- [1. In-memory-cli implementation](./IN-MEMORY-CLI.md)
+- [2. Handling errors implementation](./HANDLING-ERROR.md)
 
 # References
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
@@ -8,3 +10,4 @@
 - [Clean Architecture in C#](https://github.com/kikutano/CleanArchitecture.Template/tree/main)
 - [Why Clean Architecture Is Great For Complex Projects](https://www.milanjovanovic.tech/blog/why-clean-architecture-is-great-for-complex-projects)
 - [Clean Architecture Vietnamese](https://www.linkedin.com/pulse/clean-architecture-nguyen-nguyen/)
+- [System](https://quochung.cyou/category/architecture/)
