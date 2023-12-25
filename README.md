@@ -81,11 +81,19 @@
 ## itertools module
 ## functools module
 
+- [advance_features](./advance_features/README.md)
+
 # III. OOP
+
+- [v2/OOP](./basic_features/25-oop/v2/README.md)
 
 # IV. SOLID Principles
 
+- [solid](./solid/README.md)
+
 # V. FastAPI
+
+- [fastapi](./fast-api/README.md)
 
 # IV. REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
