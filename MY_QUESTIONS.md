@@ -20,3 +20,6 @@
 - Implementing Server Python App
     - Locally
     - Docker
+
+# Note
+- I use it when suddenly I don't know or curious anything about Python things

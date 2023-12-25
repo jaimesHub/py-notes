@@ -1,20 +1,14 @@
 # Working With Errors
-- Built-in Exceptions: https://docs.python.org/3/library/exceptions.html
-- Exception-hierarchy: https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+- [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
+- [Exception-hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 
 ## Common Error Types
-- SyntaxError
-    - https://docs.python.org/3/library/exceptions.html#SyntaxError
-- NameError
-    - https://docs.python.org/3/library/exceptions.html#NameError
-- IndexError
-    - https://docs.python.org/3/library/exceptions.html#IndexError
-- TypeError
-    - https://docs.python.org/3/library/exceptions.html#TypeError
-- ValueError
-    - https://docs.python.org/3/library/exceptions.html#ValueError
-- KeyError
-    - https://docs.python.org/3/library/exceptions.html#KeyError
+- [SyntaxError](https://docs.python.org/3/library/exceptions.html#SyntaxError)
+- [NameError](https://docs.python.org/3/library/exceptions.html#NameError)
+- [IndexError](https://docs.python.org/3/library/exceptions.html#IndexError)
+- [TypeError](https://docs.python.org/3/library/exceptions.html#TypeError)
+- [ValueError](https://docs.python.org/3/library/exceptions.html#ValueError)
+- [KeyError](https://docs.python.org/3/library/exceptions.html#KeyError)
 
 ## Raising Exceptions
 - `raise.py`
