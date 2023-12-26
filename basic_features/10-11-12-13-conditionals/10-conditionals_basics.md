@@ -143,5 +143,5 @@ Out[329]: 5
 - Example: `cointoss.py`
 
 ## Assignment
-- Reference: https://plum-poppy-0ea.notion.site/Conditionals-Tweet-Checker-Exercise-0ca1730428424073a7eb868e6135db6c
+- [Reference](https://plum-poppy-0ea.notion.site/Conditionals-Tweet-Checker-Exercise-0ca1730428424073a7eb868e6135db6c)
 - `twitter_checker.py`

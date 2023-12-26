@@ -86,14 +86,14 @@
     ```
 
 ## Variable Naming
-- `Convention` naming: acceptable python names for variables
+- `Convention*` naming: acceptable python names for variables
     - `Valid`: variables123, first_name (Pythonic), player_1 (Pythonic)
     - `Invalid`: 123variable, first name, False, def
     - `Not good`: FirstName, FIRSTNAME, I, O, x
 - Pythonic approach, Pythonic name
     - The Python convention of `snake_case` for `variables names`
 - Python Keywords
-    - >>> help("keywords")
+    - >>> help("your_keywords_want_to_know")
 - `Meaning names` means you should use names that `make sense`
 - If you have a `variable` that will `never change` something called a `constant`
     - PI = 3.14
@@ -149,7 +149,7 @@
 - `%=` operator
 
 ## How Variables Work?
-- Page 32: https://www.canva.com/design/DAErfXIn0Ak/0CgknsGzKJ_TnrcJNWUIdg/view
+- [Page 32](https://www.canva.com/design/DAErfXIn0Ak/0CgknsGzKJ_TnrcJNWUIdg/view)
 
 ## The Print() Function
 - The `print()` function prints out any values we pass to it to "standard output". It does not return anything

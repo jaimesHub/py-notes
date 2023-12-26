@@ -250,3 +250,6 @@
 
 ## Assignment
 - check `press_release.py`
+
+# References
+- [Difference Between Methods and Functions in Python](https://www.shiksha.com/online-courses/articles/difference-between-methods-and-functions-in-python/)

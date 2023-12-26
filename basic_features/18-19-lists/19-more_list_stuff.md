@@ -299,6 +299,16 @@ Out[129]: [1, 2, 3, 4]
     > list1 = [2,9,['a', 'b'],7]
     > list2 = copy.deepcopy(list1)
 
+## Quick Summary
+- Shallow copy
+    - `independent` object `(1)`
+    - because we only created a `shallow` copy of the original list, copied object still contains `references` to the `original` child objects stored in original object. `(2)`
+- Deep copy
+    - same `(1)`
+    - difference with `(2)`
+
 ## Exercise
 - `todos.py`
 - https://plum-poppy-0ea.notion.site/Todo-List-Exercise-87d17f24feb74e799086acbb9c875719
+- [copy vs deep copy](https://docs.python.org/3/library/copy.html)
+- [shallowcopy vs deepcopy](https://realpython.com/copying-python-objects/)

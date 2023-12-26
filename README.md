@@ -1,86 +1,69 @@
-# I. One Week Python
+# I. Basic Features
 
-## Section 1: Welcome & Introduction
-- This course is 
-    - A fast , effective pathway to learn Python
-    - Full of exercises, challenges, quizzes
-    - Avarage video is 4mins
-    - An ideal on ramp to DS, ML, Web
-- This course is not for
-    - Duration 60h
-    - Advanced concepts, experts
-    - Web/DS/ML
-- Focus on `Fundamental` things
-
-## Section 2: Installation & Setup
-- Installation
-    - [Download Python 3](https://www.python.org/downloads/)
-    - [Mac Python Installation](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=682s)
-    - [Mac VS Code install and setup](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=795s)
-    - [Python virtual Env Basics - Why do we need it?](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=1331s)
-    - [Virtual Env on Mac - How we do that](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=1736s)
-    - [Install dependencies w/ pip](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=6&t=2057s)
-- Running Python: 2 ways we can run Python code
-    - Interactively: terminal
-        - checking version: `python3 --version`
-        - python3: `open interactive mode, exit()/Ctrl + D`
-        - IPython: `python3 -m pip install ipython`
-    - From A File:
-        - Writing python code in a file (`game.py`)
-        - Execute it: `python game.py`
-- Setup VSCode
-    - Extensions: `Python`
-    - `./Section-2/first.py`
-- The "No-Installation" Option:
-    - [REPL.it](https://replit.com/)
+- [Basic features of Python](./basic_features/README.md)
+- [pilot](./basic_features/1-2-pilot/README.md)
 
 ## Section 3: Python Numbers
-
 ## Section 4: Variables Basics
-
 ## Section 5: String Basics
-
 ## Section 6: A Little More On Strings
-
 ## Section 7: Strings & Built-Ins
-
 ## Section 8: The World of Methods
-
 ## Section 9: Booleans
 
+- [data-types](./basic_features/3-4-5-6-7-8-9-data_types/)
+
 ## Section 10: Conditionals Basics
-
 ## Section 11: A Little More On Conditionals
-
 ## Section 12: Writing More Complex Logic
-
 ## Section 13: The Last Section On Conditionals
 
-## Section 14: Loops Part I
+- [conditionals](./basic_features/10-11-12-13-conditionals/)
 
+## Section 14: Loops Part I
 ## Section 15: Loops Part II
+
+- [loops](./basic_features/14-15-loops/)
 
 ## Section 16: Introducing Functions
 
+- [Introducing Functions](./basic_features/16-functions/)
+
 ## Section 17: Scope
 
-## Section 18: Lists: The Basics
+- [scope](./basic_features/17-scope/)
 
+## Section 18: Lists: The Basics
 ## Section 19: Lists: More List Stuff
+
+- [lists](./basic_features/18-19-lists/)
 
 ## Section 20: Dictionaries
 
+- [dictionaries](./basic_features/20-dictionaries/)
+
 ## Section 21: Sets and Tuples
+
+- [sets and tuples](./basic_features/21-sets_and_tuples/)
 
 ## Section 22: Returning To Functions
 
+- [returning to functions](./basic_features/22-returning_to_functions/)
+
 ## Section 23: Working With Errors
+
+- [working with errors](./basic_features/23-working_with_errors/)
 
 ## Section 24: Modules
 
+- [modules](./basic_features/24-modules/)
+
 ## Section 25: OOP
 
+- [oop](./basic_features/25-oop/)
+
 ## Recap
+- [The End: What's Next???](./basic_features/26-recap/)
 - the power of `three`
 - why
 - props
@@ -98,11 +81,19 @@
 ## itertools module
 ## functools module
 
+- [advance_features](./advance_features/README.md)
+
 # III. OOP
+
+- [v2/OOP](./basic_features/25-oop/v2/README.md)
 
 # IV. SOLID Principles
 
+- [solid](./solid/README.md)
+
 # V. FastAPI
+
+- [fastapi](./fast-api/README.md)
 
 # IV. REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)

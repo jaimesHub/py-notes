@@ -17,16 +17,16 @@
 
 ## Class Syntax
 - `puppy.py`
-- define "class" 
-    - with Class Name is Capitalized
-        - define "def"
+- define `class` 
+    - `Convention name:` with Class Name is `Capitalized`
+        - define `def`
             - special `__init__` method `automatically` called whenever `new Puppy is created` (instatiating)
-                - self: 
-                    - refers to the `current` instance of class (Puppy)
-                    - it must be the `first` parameter to init
-                - other parameters
+            - `self`: 
+                - refers to the `current` instance of class (Puppy)
+                - it must be the `first` parameter to init
+            - other parameters
 
-- instatiating
+- instatiating an instance
     - to create a Puppy instance, call Puppy() and provide a name
     - `__init__`  method runs first
 
@@ -43,7 +43,7 @@
 - Each `Puppy` instance is a different object
 
 ## Class Attributes
-- are attributes that are defined on the class itself and they are shared across all instances of the class
+- They are attributes that are defined on the class itself and they are shared across all instances of the class
 - if you define a variable just floating inside of a class, that variable belongs to the class. It is a class attribute
     - all instances of `Puppy` will have (share) the `same` value for `species`
 - `class_attributes.py`
@@ -53,6 +53,8 @@
 - These class methods are not concerned with a specific instance of the class.
 - `@classmethod` decorator
 - `class_method.py`
+
+- Same `static` methods in other languages
 
 ## Inheritance Basics
 - `inheritance.py`

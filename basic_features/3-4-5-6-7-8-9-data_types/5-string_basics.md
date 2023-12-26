@@ -162,7 +162,10 @@ age = "eighty five"
     ```
 
 ## The Special Value None
-- `None` is a special value in Python that denotes the `lack of value`. It is `not` the same as `zero` or an `empty string` (`those are still values`) ~ `NULL` value in JS
+- `None` is a special value in Python that denotes the `lack of value`. It is `not` the same as `0` or an `empty string` (`those are still values`) ~ `NULL` value in JS
 - It is `emptiness`, it means `nothing`
-- It is very `different` from `zero` or `an empty string`, those are still value
+- It is very `different` from `0` or `an empty string`, those are still value
+
+# References
+- [Null in Python](https://realpython.com/null-in-python/)
 
