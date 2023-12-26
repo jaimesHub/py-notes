@@ -11,7 +11,7 @@
         - To execute a generator function, you call the `next()` built-in function on it.
 - a generator object is also an [iterator](https://www.pythontutorial.net/advanced-python/python-iterators/), which must contain 2 dunder methods
     - `__iter__`
-    - `__next__`
+    - `__next__` # NOT true
 
 ## A simple Python generator example
 - Example: [generator_example.py](./code/generator_example.py)
@@ -29,7 +29,7 @@
     - We can rewrite `the Squares iterator` as `a generator function`
 
 ## Recap
-- Python generators are functions that contain at least one yield statement.
+- Python generators are functions that contain at least one `yield` statement.
 - A generator function returns a generator object.
 - A generator object is an iterator. Therefore, it becomes exhausted once there’s no remaining item to return.
 

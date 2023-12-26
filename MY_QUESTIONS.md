@@ -23,3 +23,22 @@
 
 # Note
 - I use it when suddenly I don't know or curious anything about Python things
+- convention styling: PEP8
+- method vs function
+- append list, dict - infinity loop
+- math_case ~ switch case
+- scope in class
+- unhashable, hashable data type - dict requires key
+- order in set data type != list
+- function only TAKES keyword arguments not position arguments
+- base exception
+- import custom module from other projects to current project (python `path`) -> why use Pip install -> we can use them -> why
+- import *: scope, namespace (PEP8)
+- oop:
+    - how to create class
+    - type() - dive into -> type(name, bases, dict, **kwds) -> a new type
+    - singleton pattern in python -> `__new__` methods
+    - attribute lookup
+- generate type
+- function tools
+- cursor_factory=RealDictCursor

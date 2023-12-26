@@ -5,7 +5,7 @@
     - `Like` lists, tuples are ordered, indexed collections
     - `Unlike` lists, `tuples are immutable`. They cannot change once created
 
-- Create a Typle
+- Create a Tuple
     > dishes = ("burrito", "taco", "fajita", "quesadilla")
     - parentheses
     - commas

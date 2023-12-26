@@ -68,4 +68,4 @@
 - named argument: 
     - order does not matter
 - error: 
-    - Non-default argument follows default argument
+    - Non-default argument `follows` default argument

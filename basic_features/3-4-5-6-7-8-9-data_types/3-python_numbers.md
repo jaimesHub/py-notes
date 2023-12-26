@@ -57,7 +57,8 @@
 - Order of Operations
     - Parentheses: `()`
     - Multiplication and Division: `*, /. //`
-    - Addition anf Subtraction: `+, -`
+    - Addition and Subtraction: `+, -`
+    - Order: `()` > `*, /. //` > `+, -`
 
 ## Lesser Known Operators
 - Integer Division: `//`, it `rounds down` the result

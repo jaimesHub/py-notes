@@ -1,7 +1,7 @@
 # I. Basic Features
 
 - [Basic features of Python](./basic_features/README.md)
-- [pilot](./basic_features/1-pilot/)
+- [pilot](./basic_features/1-2-pilot/README.md)
 
 ## Section 3: Python Numbers
 ## Section 4: Variables Basics
