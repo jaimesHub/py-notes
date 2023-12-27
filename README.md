@@ -68,7 +68,6 @@
 - why
 - props
 - cons
-#
 
 # II. Advance features
 ## decorators
@@ -95,9 +94,22 @@
 
 - [fastapi](./fast-api/README.md)
 
-# IV. REFERENCE
+# VI. Django
+
+- [django](./django/README.md)
+
+# VII. 100-days-of-Python
+
+- [100-days-of-Python](./100-days-of-Python/README.md)
+
+# VII. Course: Dive into
+
+- [Part 1 - Functional]()
+
+# REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
 - [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)
 - [FastAPI Video Tuts](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 - [Solid-Github-DHN](https://github.com/daohainam/solid-bad-designs)
 - [Knowledge-base Practice](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas)
+
