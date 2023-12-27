@@ -1,0 +1,14 @@
+- print function: `print()`
+- error and google it
+- [practice](https://app.auditorium.ai/courses/eelyNMYJKXeNJAbjssSEQz0m88XvnhX6)
+- [Difference Between Single and Double Quotes in Python](https://www.askpython.com/python/string/difference-between-single-and-double-quotes-in-python)
+- \n
+- string concatination
+- indentation error
+- the input function: `input()` & how it works
+    - eg: print(len(input()))
+- comment: `#` (aka pound sign) and its shortcut
+- python variables
+    - ex: switch variables
+    - naming: underscore between, number first is not allowed
+    - typo error

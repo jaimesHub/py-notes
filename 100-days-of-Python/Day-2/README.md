@@ -1,0 +1,12 @@
+- Starter: https://replit.com/@jaimesHub/day-2-start
+- Primitive Data Types
+    - Strings
+    - Integers / Large Integers
+    - Floats / Float point number
+    - Boolean
+- Type Error, Type Checking
+- Type Conversion, Type Casting
+- Mathematical Operations
+    - Order & Precedence: PEMDASLR
+- Number Maniplation and F-Strings
+- [Exercise](https://replit.com/@jaimesHub/tip-calculator-start#main.py)
