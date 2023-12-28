@@ -9,7 +9,8 @@
 
 ## Write your first Django app
 - [Take the tutorial - Part 1](https://docs.djangoproject.com/en/stable/intro/tutorial01/)
-- [Take the tutorial - Part 2]()
+- [Take the tutorial - Part 2](https://docs.djangoproject.com/en/5.0/intro/tutorial02/)
+- [Take the tutorial - Part 3](https://docs.djangoproject.com/en/5.0/intro/tutorial03/)
 
 ## Sharpen your skills
 - [Read the docs](https://docs.djangoproject.com/)
