@@ -34,7 +34,10 @@
         - The `include()` function allows referencing other URLconfs.
         - The idea behind `include()` is to make it easy to `plug-and-play URLs`.
         - [When to use `include()`](https://docs.djangoproject.com/en/5.0/intro/tutorial01/#write-your-first-view)
-        - The [path()](https://docs.djangoproject.com/en/5.0/ref/urls/#django.urls.path) function is passed four arguments, two required: `route` and `view`, and two optional: `kwargs`, and `name`. 
+        - The [path()](https://docs.djangoproject.com/en/5.0/ref/urls/#django.urls.path) function is passed four arguments, two required: `route` and `view`, and two optional: `kwargs`, and `name`.
+
+## Recap
+- the basic request and response flow
 
 # PART 2
 - set up the database
@@ -123,6 +126,10 @@
 5. Explore the free admin functionality
 - Note: If the value of “Date published” doesn’t match the time when you created the question in Tutorial 1, it probably means you forgot to set the correct value for the TIME_ZONE setting. Change it, reload the page and check that the correct value appears.
 
+## Recap
+- the models API
+- having familiarized with the admin site
+
 # Part 3
 ## Overview
 - Web pages and other content are delivered by views
@@ -191,3 +198,65 @@
         ```
             <li><a href="{% url 'polls:detail' question.id %}">{{ question.question_text }}</a></li>
         ```
+## Recap
+- Writing views
+
+# Part 4
+
+## Write a minimal form
+- Update detail template `(“polls/detail.html”)`
+- Create a Django view that handles the submitted data and does something with it.
+    - `polls/urls.py`
+    - `polls/views.py` -> vote()
+        - request.POST, request.GET, 
+        - request.POST['choice'], KeyError
+        - HttpResponseRedirect / HttpResponse, reverse() 
+    - [More detail](https://docs.djangoproject.com/en/5.0/intro/tutorial04/#write-a-minimal-form)
+    - [For more on HttpRequest objects](https://docs.djangoproject.com/en/5.0/ref/request-response/)
+- After somebody votes in a question, the `vote()` view redirects to the results page for the question.
+    - `polls/views.py` -> `results()`
+- Create a `polls/results.html` template
+- Problem:
+    - If two users of your website try to vote at exactly the same time, this might go wrong -> `a race condition`
+    - [Avoiding race conditions using F()](https://docs.djangoproject.com/en/5.0/ref/models/expressions/#avoiding-race-conditions-using-f)
+
+## Use generic views: Less cod is better
+- These views represent a common case of basic web development 
+    - getting data from the database according to a parameter passed in the URL
+    - loading a template and returning the rendered template
+- Django provides a shortcut, called the `generic views` system
+    - Generic views abstract common patterns to the point where you don’t even need to write Python code to write an app. For example:
+        - [ListView](https://docs.djangoproject.com/en/5.0/ref/class-based-views/generic-display/#django.views.generic.list.ListView) views abstract the concepts of `display a list of objects`
+            - IndexView
+        - [DetailView](https://docs.djangoproject.com/en/5.0/ref/class-based-views/generic-display/#django.views.generic.detail.DetailView) views abstract the concepts of `display a detail page for a particular type of object`
+            - DetailView
+            - ResultsView
+    - Steps to use the generic views system
+        - [Convert the URLconf](https://docs.djangoproject.com/en/5.0/intro/tutorial04/#amend-urlconf)
+            - `polls/urls.py`
+            - IndexView.as_view(), DetailView.as_view(), ResultsView.as_view()
+            - `polls/views.py`
+        - Delete some of the old, unneeded views
+            - `polls/views.py`
+        - [Introduce new views based on Django's generic views](https://docs.djangoproject.com/en/5.0/intro/tutorial04/#amend-views)
+- [For full details on generic views](https://docs.djangoproject.com/en/5.0/topics/class-based-views/)
+
+## Recap
+- Forms processing
+- Generic views
+
+# Part 5
+
+## Introducing automated testing
+
+## Basic testing strategies
+
+## Writing our first test
+
+## Test a view
+
+## When testing, more is better
+
+## Further testing
+
+## What's next?
