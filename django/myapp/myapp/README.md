@@ -476,3 +476,19 @@
 
 ## Next
 - learn how to use third-party packages
+
+# Part 8
+- How to add [Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/)
+## Installing Django Debug Toolbar
+- It is used for debugging Django web application
+- It helps to understand how an application functions and to identify problems
+- Install: `python3 -m pip install django-debug-toolbar`
+- Post-installation setup
+    - add the package's Django app to `INSTALLED_APPS` setting
+    - some pakages need other changes, like additions to our URLconf (urls.py)
+- [Django Debug Toolbar requires several setup steps](https://django-debug-toolbar.readthedocs.io/en/latest/installation.html)
+
+## Getting help from others
+
+## Installing othet third-party packages
+- [Django Packages](https://djangopackages.org/)

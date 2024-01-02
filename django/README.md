@@ -14,6 +14,8 @@
 - [Take the tutorial - Part 4](https://docs.djangoproject.com/en/5.0/intro/tutorial04/)
 - [Take the tutorial - Part 5](https://docs.djangoproject.com/en/5.0/intro/tutorial05/)
 - [Take the tutorial - Part 6](https://docs.djangoproject.com/en/5.0/intro/tutorial06/)
+- [Take the tutorial - Part 7](https://docs.djangoproject.com/en/5.0/intro/tutorial07/)
+- [Take the tutorial - Part 8](https://docs.djangoproject.com/en/5.0/intro/tutorial08/)
 
 ## Sharpen your skills
 - [Read the docs](https://docs.djangoproject.com/)
