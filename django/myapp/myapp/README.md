@@ -410,3 +410,69 @@
 
 ## Next
 - learn how to customize Django’s automatically-generated admin site.
+
+# Part 7
+
+## Customize the admin form
+- By registering the `Question` model with `admin.site.register(Question)`, Django was able to construct a default form representation.
+- reordering the fields on the edit form
+    `polls/admin.py`
+- this pattern
+    - create a model admin class
+    - pass it as the second argument to `admin.site.register()`
+
+## Adding related objects
+- The first is to register `Choice` with the admin just as we did with `Question`
+    - `Question` field select box: Django knows that a `ForeignKey` should be represented in the admin as a `<select>` box.
+    - the `Add another question` link next to `Question`
+- But, really, this is an `inefficient` way of adding `Choice` objects to the system
+    - It’d be better if you could add a bunch of `Choices` directly when you create the `Question` object.
+    - Remove the `register()` call for the `Choice` model. 
+    - edit the `Question` registration code to read
+- Problem
+    - It takes a lot of screen space to display all the fields for entering related `Choice` objects
+- Solution
+    - Django offers a tabular way of displaying inline related objects.
+    - change the `ChoiceInline` declaration to read
+- [Steps](https://docs.djangoproject.com/en/5.0/intro/tutorial07/#adding-related-objects)
+
+## Customize the admin change list
+- make some tweaks to the `change list` page
+- By default, Django displays the str() of each object.
+- sometimes it’d be more helpful if we could display individual fields.
+    - `list_display` attr
+    - using the `display()` decorator: `polls/model.py`
+    - [For more information](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display)
+- Filter
+    - `polls/admin.py`: 
+        - filters using the `list_filter`. Add to `QuestionAdmin`
+        - add some search capability
+- Change lists give you free pagination. The default is to display 100 items per page. 
+    - [Change list pagination](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_per_page), 
+    - [search boxes](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.search_fields), 
+    - [filters](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_filter), 
+    - [date-hierarchies](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.date_hierarchy)
+    - [column-header-ordering](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display)
+
+## Customize the admin look and feel
+- [Check here](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display)
+
+### Customizing your project's templates
+- Create `templates` directory: `/myapp/templates`
+- Templates can live anywhere on your filesystem that Django can access
+- Open `myapp/settings.py`
+    - add `DIRS` option in `TEMPLATES` setting
+    - [DIRS](https://docs.djangoproject.com/en/5.0/ref/settings/#std-setting-TEMPLATES-DIRS) is a list of filesystem directories to check when loading Django templates; it’s a `search path`.
+- create a directory called `admin` inside `templates`
+    - this approach to teach you how to override templates
+    - In an actual project, you would probably use the `django.contrib.admin.AdminSite.site_header` attribute to more easily make this particular customization.
+
+### Customizing your application's templates
+- Question: if DIRS was empty by default, how was Django finding the default admin templates? 
+- See the [template loading documentation](https://docs.djangoproject.com/en/5.0/topics/templates/#template-loading) for more information about how Django finds its templates.
+
+## Cusomize the admin index page
+- [Customize the admin index page](https://docs.djangoproject.com/en/5.0/intro/tutorial07/#customize-the-admin-index-page)
+
+## Next
+- learn how to use third-party packages
