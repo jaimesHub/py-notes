@@ -12,7 +12,7 @@
 - [Take the tutorial - Part 2](https://docs.djangoproject.com/en/5.0/intro/tutorial02/)
 - [Take the tutorial - Part 3](https://docs.djangoproject.com/en/5.0/intro/tutorial03/)
 - [Take the tutorial - Part 4](https://docs.djangoproject.com/en/5.0/intro/tutorial04/)
-- [Take the turorial - Part 5]()
+- [Take the turorial - Part 5](https://docs.djangoproject.com/en/5.0/intro/tutorial05/)
 
 ## Sharpen your skills
 - [Read the docs](https://docs.djangoproject.com/)
