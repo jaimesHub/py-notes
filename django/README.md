@@ -17,5 +17,10 @@
 - [Take the tutorial - Part 7](https://docs.djangoproject.com/en/5.0/intro/tutorial07/)
 - [Take the tutorial - Part 8](https://docs.djangoproject.com/en/5.0/intro/tutorial08/)
 
+## My Prepare
+- Customizing user model: Login with Email address instead of username
+- Template rendering: Template structure & Context Processor
+- [References](./preparing-projects/README.md)
+
 ## Sharpen your skills
 - [Read the docs](https://docs.djangoproject.com/)
