@@ -5,3 +5,6 @@
 
 # DAY 2
 [Day-2](./Day-2/README.md)
+
+# DAY 3
+[DAY-3](./Day-3/README.md)
