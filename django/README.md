@@ -1,4 +1,5 @@
-# Learning Django v5.0
+# v1: Offical Documentation - Learning Django v5.0
+- [myapp](./myapp/myapp/README.md)
 - [Start](https://www.djangoproject.com/start/)
 - [Contents](https://docs.djangoproject.com/en/5.0/contents/)
 
@@ -24,3 +25,6 @@
 
 ## Sharpen your skills
 - [Read the docs](https://docs.djangoproject.com/)
+
+# v2
+- [pythontutorial](https://www.pythontutorial.net/django-tutorial/)
