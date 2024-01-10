@@ -1,1 +1,20 @@
 # Day 7
+- how to break a Complex Problem down into a Flow Chart
+- Challenge 1
+    - [Start](https://replit.com/@jaimesHub/Day-7-Hangman-1-Start#main.py)
+    - [End](https://replit.com/@appbrewery/Day-7-Hangman-1-End?embed=1&output=1#main.py)
+    - [Hint](https://developers.google.com/edu/python/lists#for-and-in)
+- Challenge 2
+    - [Start](https://replit.com/@jaimesHub/Day-7-Hangman-2-Start#main.py)
+    - [End](https://replit.com/@appbrewery/Day-7-Hangman-2-End?embed=1&output=1#main.py)
+- Challenge 3
+    - [Start](https://replit.com/@jaimesHub/Day-7-Hangman-3-Start#main.py)
+    - [End](https://replit.com/@appbrewery/Day-7-Hangman-3-End#main.py)
+- Challenge 4
+    - [Start](https://replit.com/@appbrewery/Day-7-Hangman-4-Start)
+    - [End]()
+- Challenge 5
+    - [Start](https://replit.com/@appbrewery/Day-7-Hangman-5-Start)
+    - [End](https://replit.com/@appbrewery/Day-7-Hangman-5-End)
+- Final Code
+    - [Reference](https://replit.com/@appbrewery/Day-7-Hangman-Final)
