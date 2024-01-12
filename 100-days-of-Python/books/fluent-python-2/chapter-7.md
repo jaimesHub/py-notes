@@ -18,3 +18,16 @@
 - [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ## Higher-Order Functions
+- A function that takes a function as an argument or returns a function as the result is a higher-order function.
+- example: map(), sorted(), filter(), reduce(), apply()
+- call a function with a dynamic set of arguments
+    - fn(*args, **kwargs)
+
+## Modern Replacements for map, filter, and reduce
+- map() and filter() return generators - a form of iterator
+- reduce() function is a `functools` module
+    - `functools` module vs `built-in`
+    - reducing built-ins: all(), any(), any()
+- To use a higher-order function, sometimes it is convenient to create a small, . one-off function. -> anonymous functions exist
+
+## Anonymous Functions
