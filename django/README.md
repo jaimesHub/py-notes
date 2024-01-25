@@ -28,3 +28,27 @@
 
 # v2
 - [pythontutorial](https://www.pythontutorial.net/django-tutorial/)
+
+## Meeting 24/01/2024
+- management-server
+    - view 
+    - template
+    - upload_content
+    - bulk stream
+    - debug on WSL1 but WSL2
+    - schedule / milestone for this sprint
+    - schedule/milestone for all project
+    - setup project, need to find out more
+    - cus: collecting data from user, render 
+        - check js function
+        - coupling
+        - improve in our way
+        - broadcast stream server: 10.157.95.17:8000
+        - tildwinds  
+- rest-server
+- customer is creating initative
+- finding improve points on FE side
+- c++ 1-2 sprints, open the virutal tuner resource code to FPT devs
+
+- convert hls_function
+    - get from tsduck.io source code but we can not find detail implementation (conver_hls function) -> customer will check, segmentation
