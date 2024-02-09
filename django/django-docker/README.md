@@ -1,0 +1,11 @@
+# Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)
+> [Learning Python, Django and Docker](https://fpt-software.udemy.com/course/django-python-advanced/)
+
+- [Section 1: Introduction](./docs/SECTION-1.md)
+- [Section 2: App Design](./docs/SECTION-2.md)
+- [Section 3: Test Driven Development](./docs/SECTION-3.md)
+- [Section 4: System Setup](./docs/SECTION-4.md)
+- [Section 5: Project Setup](./docs/SECTION-5.md)
+    - [Project](https://github.com/jaimesHub/recipe-app-api)
+    - [project-setup branch](https://github.com/jaimesHub/recipe-app-api/tree/project-setup)
+    - [Commit](https://github.com/jaimesHub/recipe-app-api/compare/main...project-setup)
