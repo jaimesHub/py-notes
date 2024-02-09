@@ -42,3 +42,4 @@
 - generate type
 - function tools
 - cursor_factory=RealDictCursor
+- [What is runtime](https://stackoverflow.com/questions/3900549/what-is-runtime)

@@ -1,0 +1,10 @@
+- [day 3](https://replit.com/@jaimesHub/day-3-start#main.py)
+- Conditional
+    - if/elif/else
+    - indentation
+    - block of code
+    - nested if and elif statements
+    - multiple if
+- Comparison Operators
+- Logical Operators
+- Assignment
