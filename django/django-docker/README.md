@@ -9,3 +9,4 @@
     - [Project](https://github.com/jaimesHub/recipe-app-api)
     - [project-setup branch](https://github.com/jaimesHub/recipe-app-api/tree/project-setup)
     - [Commit](https://github.com/jaimesHub/recipe-app-api/compare/main...project-setup)
+- [Section 8: Configure Database](./docs/SECTION-8.md)
