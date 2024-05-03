@@ -1,6 +1,17 @@
 # API Document
 
 - auto docs w DRF
+    - auto generate docs (w 3rd party library)
+        - drf-spectacular
+    - generates schema
+    - browsable web interface
+        - make test request
+        - auth handling
+    - how it works
+    - OpenAPI Schema
+    - Schema Example
+        - yml file
+    - Using a Schema
 - install drf-spectacular
     - [drf-spectacular](https://drf-spectacular.readthedocs.io/en/latest/index.html)
     - [pypi - drf-spectacular](https://pypi.org/project/drf-spectacular/)
