@@ -14,6 +14,11 @@
     - Using a Schema
 - install drf-spectacular
     - [drf-spectacular](https://drf-spectacular.readthedocs.io/en/latest/index.html)
+        - update `requirements.txt`
+        - rebuild: `docker-compose build`
+        - update `settings.py` to configure drf...
+            - INSTALLED_APPS: rest_framework, drf_spectacular
+            - REST_RESTFRAMEWORK: configure rest_framework to allow it generate schema using drf_spectacular
     - [pypi - drf-spectacular](https://pypi.org/project/drf-spectacular/)
     - [setup & install](https://drf-spectacular.readthedocs.io/en/latest/readme.html#installation)
 - configure URLs
