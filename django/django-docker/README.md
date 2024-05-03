@@ -10,3 +10,7 @@
     - [project-setup branch](https://github.com/jaimesHub/recipe-app-api/tree/project-setup)
     - [Commit](https://github.com/jaimesHub/recipe-app-api/compare/main...project-setup)
 - [Section 8: Configure Database](./docs/SECTION-8.md)
+- [Section 9: Create User Model](./docs/SECTION-9.md)
+- [Section 11: API Document](./docs/SECTION-11.md)
+- [Section 12: Build User API]()
+- [Section 13: Build Recipe API]()
