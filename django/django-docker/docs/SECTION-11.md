@@ -22,3 +22,5 @@
     - [pypi - drf-spectacular](https://pypi.org/project/drf-spectacular/)
     - [setup & install](https://drf-spectacular.readthedocs.io/en/latest/readme.html#installation)
 - configure URLs
+    - https://drf-spectacular.readthedocs.io/en/latest/readme.html#take-it-for-a-spin
+    - update `app/app/urls.py`
