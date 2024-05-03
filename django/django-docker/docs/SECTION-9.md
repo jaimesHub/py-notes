@@ -88,9 +88,15 @@
     - command: `docker-compose run --rm app sh -c "python manage.py test"`
 
 ## Normalize email addresses
-
+- `app/core/models.py`
 ## Require email input
+- `app/core/models.py`
+- `app/core/tests/test_models.py`
 
 ## Add supperuser support
+- `app/core/models.py`
+- `app/core/tests/test_models.py`
 
 ## Test user model
+- command: `docker-compose run --rm app sh -c "python manage.py createsuperuser"`
+- admin@example.com / admin
