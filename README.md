@@ -102,9 +102,11 @@
 
 - [100-days-of-Python](./100-days-of-Python/README.md)
 
-# VII. Course: Dive into
+# VII. The professional Python guide for beginners in 2025
 
-- [Part 1 - Functional]()
+- [Guide](./guide_v2025/README.md)
+
+# VIII. Course: Dive into
 
 # REFERENCE
 - [roadmap.sh/python](https://roadmap.sh/python)
