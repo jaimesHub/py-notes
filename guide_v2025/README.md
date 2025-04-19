@@ -23,3 +23,4 @@
 - Strings
 - Type Conversion
 - Booleans
+- Lists
