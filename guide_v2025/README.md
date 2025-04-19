@@ -22,3 +22,4 @@
 - Operators
 - Strings
 - Type Conversion
+- Booleans
