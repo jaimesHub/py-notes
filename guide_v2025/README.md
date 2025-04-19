@@ -6,3 +6,8 @@
 - Introduction
 - [Installing Python](https://www.python.org/)
 - [Installing PyCharm](https://www.jetbrains.com/pycharm/download/)
+
+## Section 2: Python basics
+
+- Syntax
+  - Syntax error
