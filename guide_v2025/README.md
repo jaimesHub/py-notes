@@ -11,3 +11,4 @@
 
 - Syntax
   - Syntax error
+- Comments
