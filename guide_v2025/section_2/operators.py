@@ -16,3 +16,26 @@ x = x + 2
 # sugar syntax
 # x += 2
 print(x)
+
+########################################################
+
+# comparing
+a: int = 1
+b: int = 5
+c: int = 10
+d: int = 10
+
+print(a == b)
+print(c != d)
+print(a != d)
+
+print(b > a)
+print(a > b)
+
+print(c > d)
+print(c >= d)
+print(c <= d)
+
+print(c < b)
+
+print(c > b > a)
