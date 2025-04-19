@@ -25,3 +25,4 @@
 - Booleans
 - Lists
 - Tuples
+- Sets
