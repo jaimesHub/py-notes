@@ -20,3 +20,4 @@
 - Integers
 - Floats
 - Operators
+- Strings
