@@ -27,3 +27,5 @@
 - Tuples
 - Sets
 - Frozensets
+- Dictionaries
+- None
