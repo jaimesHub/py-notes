@@ -24,3 +24,4 @@
 - Type Conversion
 - Booleans
 - Lists
+- Tuples
