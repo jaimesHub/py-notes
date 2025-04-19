@@ -39,3 +39,18 @@ print(c <= d)
 print(c < b)
 
 print(c > b > a)
+
+########################################################
+
+a: int = 1
+b: int = 5
+c: int = 10
+d: int = 10
+
+print(c == d and b > a)
+print(c == a and b > a and 5 == 5)
+print(c == a or b > a)
+print(c == a or b < a)
+
+print(not(a > b)) # negative operator
+print(not(c == d))
