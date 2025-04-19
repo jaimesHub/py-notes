@@ -14,3 +14,4 @@
 - Comments
 - Variables
 - Constants
+- Data types
