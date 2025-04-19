@@ -18,3 +18,4 @@
 - Type Hints (Type annotation)
 - Shortcut (Format)
 - Integers
+- Floats
