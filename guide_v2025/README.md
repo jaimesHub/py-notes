@@ -26,3 +26,4 @@
 - Lists
 - Tuples
 - Sets
+- Frozensets
