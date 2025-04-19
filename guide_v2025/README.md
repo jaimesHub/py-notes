@@ -13,3 +13,4 @@
   - Syntax error
 - Comments
 - Variables
+- Constants
