@@ -19,3 +19,4 @@
 - Shortcut (Format)
 - Integers
 - Floats
+- Operators
