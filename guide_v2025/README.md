@@ -15,3 +15,4 @@
 - Variables
 - Constants
 - Data types
+- Type Hints (Type annotation)
