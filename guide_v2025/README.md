@@ -34,3 +34,4 @@
 
 - If...Elif...Else
 - If...Else (Shorthand)
+- For loop
