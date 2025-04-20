@@ -36,3 +36,4 @@
 - If...Else (Shorthand)
 - For loop
 - While loop
+- Break & Continue
