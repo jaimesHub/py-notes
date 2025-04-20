@@ -1,3 +1,4 @@
+# create an empty set you have to use: set() not {}
 elements: set = {99, True, 'Bob'}
 
 print(elements) # random positions

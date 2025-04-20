@@ -1,3 +1,5 @@
+# the comma that defines a tuple, not the parenthesis!
+
 items: tuple = 1, True, 'Text'
 print(type(items))
 
