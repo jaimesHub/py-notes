@@ -47,3 +47,4 @@
 - Return functions
 - Recursion
 - *Args & **Kwargs
+- * and /
