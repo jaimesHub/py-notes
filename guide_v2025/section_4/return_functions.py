@@ -20,3 +20,8 @@ def connect_to_internet() -> None:
 
 var: str = connect_to_internet()
 print(var)
+
+def quiz() -> None:
+    ...
+
+print(quiz())

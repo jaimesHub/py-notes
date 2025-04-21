@@ -18,8 +18,8 @@ func('a', var_b='b') # ok: keyword args
 
 # the asterisk (*)
 def func_2(var_a: str, *, var_b: str) -> None:
-    # before the asterisk(*) we have to
-    # after the asterisk (*) we can
+    # before the asterisk(*) we can pass keyword / positional args
+    # after the asterisk (*) we have to pass keyword args
     print(var_a)
     print(var_b)
 
