@@ -38,3 +38,7 @@
 - While loop
 - Break & Continue
 - Loop...Else
+
+## Section 4: Functions
+
+- Creating a Function
