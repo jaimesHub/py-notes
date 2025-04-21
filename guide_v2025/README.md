@@ -43,3 +43,5 @@
 
 - Creating a Function
 - Pass
+- Parameters & Arguments
+- Return functions
