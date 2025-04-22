@@ -15,3 +15,5 @@
 raise Exception('This is a general exception.')
 
 # https://docs.python.org/3.12/library/exceptions.html
+
+# keyword to trigger an exception: raise
