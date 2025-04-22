@@ -48,3 +48,7 @@
 - Recursion
 - *Args & **Kwargs
 - * and /
+
+# Section 5: Errors
+
+- User Input
