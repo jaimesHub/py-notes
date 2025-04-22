@@ -52,3 +52,4 @@
 # Section 5: Errors
 
 - User Input
+- Shortcut
