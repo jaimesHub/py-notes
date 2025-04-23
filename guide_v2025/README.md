@@ -57,3 +57,7 @@
 - Else...Finally
 - [Raise](https://docs.python.org/3.12/library/exceptions.html)
 - Unknown Errors
+
+# Section 6: Modules
+
+- Modules
