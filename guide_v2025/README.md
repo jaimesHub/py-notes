@@ -77,3 +77,4 @@
 # Section 8: Lists (continued)
 
 - List comprehensions
+- Slicing
