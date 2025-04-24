@@ -73,3 +73,7 @@
 - Scopes
 - Global
 - Nonlocal
+
+# Section 8: Lists (continued)
+
+- List comprehensions
