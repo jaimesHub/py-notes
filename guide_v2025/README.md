@@ -69,3 +69,4 @@
 # Section 7: Python basics (Continues)
 
 - Truthy & Falsy
+- Comparing floats
