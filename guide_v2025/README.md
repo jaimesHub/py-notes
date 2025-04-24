@@ -70,3 +70,4 @@
 
 - Truthy & Falsy
 - Comparing floats
+- Scopes
