@@ -72,3 +72,4 @@
 - Comparing floats
 - Scopes
 - Global
+- Nonlocal
