@@ -71,3 +71,4 @@
 - Truthy & Falsy
 - Comparing floats
 - Scopes
+- Global
