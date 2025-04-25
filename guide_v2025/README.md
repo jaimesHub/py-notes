@@ -90,5 +90,6 @@
 - Dunder methods
 - __str__() & __repr__()
 - __eq__()
+- Methods vs Functions
 
 # Section 10: OOP in Python (continued)
