@@ -86,5 +86,6 @@
 - Classes & Objects
 - __init__()
 - self
+- Attributes (Class & Instance)
 
 # Section 10: OOP in Python (continued)
