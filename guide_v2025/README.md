@@ -85,5 +85,6 @@
 - OOP
 - Classes & Objects
 - __init__()
+- self
 
 # Section 10: OOP in Python (continued)
