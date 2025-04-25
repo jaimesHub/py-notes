@@ -87,5 +87,7 @@
 - __init__()
 - self
 - Attributes (Class & Instance)
+- Dunder methods
+- __str__() & __repr__()
 
 # Section 10: OOP in Python (continued)
