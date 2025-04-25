@@ -83,5 +83,7 @@
 # Section 9: OOP in Python
 
 - OOP
+- Classes & Objects
+- __init__()
 
 # Section 10: OOP in Python (continued)
