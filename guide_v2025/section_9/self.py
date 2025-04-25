@@ -18,3 +18,5 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
+# What is self referring to? => It refers to the instance of the class
