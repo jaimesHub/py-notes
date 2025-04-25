@@ -79,3 +79,9 @@
 - List comprehensions
 - Slicing
 - Do not loop & modify
+
+# Section 9: OOP in Python
+
+- OOP
+
+# Section 10: OOP in Python (continued)
