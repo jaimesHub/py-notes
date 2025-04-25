@@ -89,5 +89,6 @@
 - Attributes (Class & Instance)
 - Dunder methods
 - __str__() & __repr__()
+- __eq__()
 
 # Section 10: OOP in Python (continued)
