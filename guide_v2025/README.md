@@ -95,3 +95,4 @@
 # Section 10: OOP in Python (continued)
 
 - Inheritance
+- super()
