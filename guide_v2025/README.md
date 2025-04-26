@@ -93,3 +93,5 @@
 - Methods vs Functions
 
 # Section 10: OOP in Python (continued)
+
+- Inheritance
