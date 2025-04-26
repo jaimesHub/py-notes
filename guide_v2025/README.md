@@ -99,3 +99,4 @@
 - @staticmethod
 - @classmethod
 - @abstractmethod
+- Name mangling
