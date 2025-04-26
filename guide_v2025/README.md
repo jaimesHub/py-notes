@@ -98,3 +98,4 @@
 - super()
 - @staticmethod
 - @classmethod
+- @abstractmethod
