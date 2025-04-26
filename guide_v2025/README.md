@@ -97,3 +97,4 @@
 - Inheritance
 - super()
 - @staticmethod
+- @classmethod
