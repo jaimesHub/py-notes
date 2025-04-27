@@ -112,3 +112,4 @@
 - locals()
 - all()
 - any()
+- isinstance()
