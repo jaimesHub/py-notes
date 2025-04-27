@@ -111,3 +111,4 @@
 - globals()
 - locals()
 - all()
+- any()
