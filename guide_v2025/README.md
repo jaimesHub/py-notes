@@ -49,7 +49,7 @@
 - *Args & **Kwargs
 - * and /
 
-# Section 5: Errors
+## Section 5: Errors
 
 - User Input
 - Shortcut
@@ -58,7 +58,7 @@
 - [Raise](https://docs.python.org/3.12/library/exceptions.html)
 - Unknown Errors
 
-# Section 6: Modules
+## Section 6: Modules
 
 - Modules
 - Importing *
@@ -66,7 +66,7 @@
 - Packages
 - Libraries
 
-# Section 7: Python basics (Continues)
+## Section 7: Python basics (Continues)
 
 - Truthy & Falsy
 - Comparing floats
@@ -74,13 +74,13 @@
 - Global
 - Nonlocal
 
-# Section 8: Lists (continued)
+## Section 8: Lists (continued)
 
 - List comprehensions
 - Slicing
 - Do not loop & modify
 
-# Section 9: OOP in Python
+## Section 9: OOP in Python
 
 - OOP
 - Classes & Objects
@@ -92,7 +92,7 @@
 - __eq__()
 - Methods vs Functions
 
-# Section 10: OOP in Python (continued)
+## Section 10: OOP in Python (continued)
 
 - Inheritance
 - super()
@@ -100,3 +100,7 @@
 - @classmethod
 - @abstractmethod
 - Name mangling
+
+## Section 11: Built-in Functions
+
+- print()
