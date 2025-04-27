@@ -109,3 +109,4 @@
 - range()
 - slice()
 - globals()
+- locals()
