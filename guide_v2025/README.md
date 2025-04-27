@@ -104,3 +104,4 @@
 ## Section 11: Built-in Functions
 
 - print()
+- enumerate()
