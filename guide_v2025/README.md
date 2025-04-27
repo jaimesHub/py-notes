@@ -110,3 +110,4 @@
 - slice()
 - globals()
 - locals()
+- all()
