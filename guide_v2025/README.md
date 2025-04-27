@@ -106,3 +106,4 @@
 - print()
 - enumerate()
 - round()
+- range()
