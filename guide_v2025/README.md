@@ -107,3 +107,4 @@
 - enumerate()
 - round()
 - range()
+- slice()
