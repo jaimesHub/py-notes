@@ -108,3 +108,4 @@
 - round()
 - range()
 - slice()
+- globals()
