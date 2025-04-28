@@ -119,3 +119,4 @@
 - callable()
 - filter()
 - map()
+- sorted()
