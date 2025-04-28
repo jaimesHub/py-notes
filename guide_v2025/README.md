@@ -121,3 +121,4 @@
 - map()
 - sorted()
 - eval()
+- exec()
