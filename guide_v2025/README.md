@@ -118,3 +118,4 @@
 
 - callable()
 - filter()
+- map()
