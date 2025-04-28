@@ -128,3 +128,4 @@
 
 - [Doc Strings](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
 - F-Strings
+- assertion
