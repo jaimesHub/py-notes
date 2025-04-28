@@ -120,3 +120,4 @@
 - filter()
 - map()
 - sorted()
+- eval()
