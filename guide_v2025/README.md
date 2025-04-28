@@ -113,3 +113,7 @@
 - all()
 - any()
 - isinstance()
+
+## Section 12: Built-in Functions (Continued)
+
+- callable()
