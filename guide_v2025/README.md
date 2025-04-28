@@ -122,3 +122,4 @@
 - sorted()
 - eval()
 - exec()
+- zip()
