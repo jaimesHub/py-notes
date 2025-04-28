@@ -117,3 +117,4 @@
 ## Section 12: Built-in Functions (Continued)
 
 - callable()
+- filter()
